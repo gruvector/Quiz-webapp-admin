@@ -15,6 +15,7 @@ npm install
 # Configuration
 Create ```.env``` file inside ```backend``` directory and copy the following code
 
+
 ```
 MONGO_URI=Your mongodb URI
 GMAIL_USERNAME=your gmail address 
